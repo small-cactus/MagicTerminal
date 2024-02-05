@@ -2,6 +2,8 @@
 
 **MagicTerminal** integrates advanced AI into the command-line experience, offering a natural and intuitive way to interact with your terminal.
 
+![MagicTerminal Logo](untitled design.png)
+
 ## About MagicTerminal
 
 MagicTerminal harnesses the power of OpenAI's GPT-4-Turbo model, enabling natural language processing directly within your terminal. It's designed to understand and execute a wide range of commands in a simple, conversational manner.
