@@ -2,7 +2,7 @@
 
 **MagicTerminal** integrates advanced AI into the command-line experience, offering a natural and intuitive way to interact with your terminal.
 
-![MagicTerminal Logo](untitled design.png)
+![MagicTerminal Logo](Untitled design.png)
 
 ## About MagicTerminal
 
