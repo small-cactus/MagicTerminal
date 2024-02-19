@@ -30,7 +30,21 @@ miles list all jpg files in my documents
 
 ## Installation
 
-Instructions for installing MagicTerminal will be provided here.
+1. **Clone Repo**
+   ```
+   git clone https://github.com/small-cactus/MagicTerminal.git
+   ```
+   Make sure you use cd to navigate to the directory, then:
+
+2. **Run setup script**
+   ```
+   chmod +x setup.sh
+   ```
+   ```
+   ./setup.sh
+   ```
+3. **Hope it worked?**
+   This repo is not my main focus whatsoever, if you want command line magic that feels like magic, try [Open-Interpreter](https://github.com/KillianLucas/open-interpreter)
 
 ## Usage
 
