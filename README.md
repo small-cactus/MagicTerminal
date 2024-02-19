@@ -2,6 +2,10 @@
 
 MagicTerminal is an innovative command-line interface that leverages the advanced AI capabilities of [M.I.L.E.S](https://github.com/small-cactus/M.I.L.E.S), integrating OpenAI's GPT-4-Turbo model for natural language processing. This allows users to interact with their terminal using natural language, making command line tasks more intuitive and accessible.
 
+<p align="center">
+<img src="logo.png" alt="MagicTerminal logo" width="400" height="400"/>
+</p>
+
 ## About MagicTerminal
 
 MagicTerminal is designed to understand and execute a wide range of commands in a conversational manner. By harnessing the power of the M.I.L.E.S AI, it provides an intuitive way to navigate and perform tasks within your terminal without needing to remember specific command syntax.
